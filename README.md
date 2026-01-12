@@ -3,9 +3,14 @@
 **`Desenvolvedor Front-End`**
 
 Me chamo Davi Jones Cruz, tenho 25 anos e sou natural de São Paulo SP. Me descobri na área de desenvolvimento após os cursos de Front-End, Full-Stack Web e Mobile no *SENAI*, e busco cada vez mais conhecimento para atuar como Desenvolvedor Front-End.
-
 ---
+💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
+🚀 Buscando minha primeira oportunidade como **estagiário ou Front-End júnior**
+---
+## Contato
 
+- 💼 [LinkedIn](www.linkedin.com/in/davi-jones-419466178)
+- 📧 **davi.jones.cruz@gmail.com**
 ### 🤖 Linguagens e Tecnologias
 
 <img 
