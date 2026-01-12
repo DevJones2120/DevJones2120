@@ -1,12 +1,64 @@
-## Olá, eu sou Davi Jones ! Desenvolvedor Front-End !
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJones2120)](https://github.com/anuraghazra/github-readme-stats)
+# 👨🏻‍💻 Davi Jones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Desenvolvedor Front-End`**
+
+Me chamo Davi Jones Cruz, tenho 25 anos e sou natural de São Paulo SP. Me descobri na área de desenvolvimento após os cursos de Front-End, Full-Stack Web e Mobile no *SENAI*, e busco cada vez mais conhecimento para atuar como Desenvolvedor Front-End.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<div>
+  <img 
+    align="left"
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=DevJones2120&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img 
+    align="left"
+    alt="Top Langs" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJones2120&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
+
+<br clear="left"/>
