@@ -52,7 +52,7 @@ atualmente estou cursando *Tecnologia em Inteligência Artificial* pelo SENAC e 
   title="Python"
   width="30px"
   style="padding-right: 10px;"
-  src="https://jsdelivr.net"
+  src="https://githubusercontent.com"
 />
 <br/>
 <br/>
